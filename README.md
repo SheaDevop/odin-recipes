@@ -1,0 +1,2 @@
+This project it's about how to formulate a website with 4 webpages in html, the main index, and 3 of my favourite recipes, and how do I cook them.
+Doing a little bit of self-reflection noticed that I learned how to construct html boilerplates, the structure of a web page, how to integrate links, images, lists and text into them, also learned some supplemental knowlodge about hmtl.
